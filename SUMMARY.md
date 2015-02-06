@@ -11,6 +11,7 @@
        * [如何提升自主技術研發能量，厚植巨量資料產業競爭力？](ru_he_ti_sheng_zi_zhu_ji_shu_yan_fa_neng_liang_ff0c_hou_zhi_ju_liang_zi_liao_chan_ye_jing_zheng_li_ff1f.md)
        * [自由誠可貴，剪掉綁住我們的線! 向下世代(5G)行動通訊服務行注目禮](ru_he_jie_gui_guo_ji_zi_tong_biao_zhun_ff0c_yi_ying_jie_5g_zhi_hui_wang_luo_shi_dai_de_xin_qi_6a5f3f.md)
        * [如何推動無線寬頻網路建設，以因應行動數據海嘯 (Mobile Data Tsunami)時代來臨?](ru_he_tui_dong_wu_xian_kuan_pin_wang_lujian_she_ff0c_yi_yin_ying_xing_dong_shu_ju_hai_xiao__mobile_data_tsunami_shi_dai_lai_81e83f.md)
+       * 書同文 車同軌─接軌國際標準，從「台灣資通產業標準」談起
    * [網路資安隱私](wang_lu_zi_an_yin_si.md)
        * [如何加強網路隱私保護，以因應大數據時代來臨?](ru_he_jia_qiang_wang_lu_yin_si_bao_hu_ff0c_yi_yin_ying_da_shu_ju_shi_dai_lai_81e83f.md)
        * [如何培育量足質精的資安人才，以確保國家安全及社會穩定?](ru_he_pei_yu_liang_zu_zhi_jing_de_zi_an_ren_cai_ff0c_yi_que_bao_guo_jia_an_quan_ji_she_hui_wen_5b9a3f.md)
