@@ -16,5 +16,4 @@
 ### 全民協作
 建立網路輿情反饋機制，
 
-Last update 201502080955 whitebook lisa 	
-toriixai01
+Last update 201502081000
