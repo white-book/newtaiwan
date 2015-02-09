@@ -10,7 +10,7 @@
        * [如何協助中小企業創新，藉此搶攻物聯網商機，發展新興應用產品與服務？](ru_he_xie_zhu_zhong_xiao_qi_ye_chuang_xin_ff0c_jie_ci_qiang_gong_wu_lian_wang_shang_ji_ff0c_fa_zhan_xin_xing_ying_yong_chan_pin_yu_fu_wu_ff1f.md)
        * [如何提升自主技術研發能量，厚植巨量資料產業競爭力？](ru_he_ti_sheng_zi_zhu_ji_shu_yan_fa_neng_liang_ff0c_hou_zhi_ju_liang_zi_liao_chan_ye_jing_zheng_li_ff1f.md)
        * [自由誠可貴，剪掉綁住我們的線! 向下世代(5G)行動通訊服務行注目禮](ru_he_jie_gui_guo_ji_zi_tong_biao_zhun_ff0c_yi_ying_jie_5g_zhi_hui_wang_luo_shi_dai_de_xin_qi_6a5f3f.md)
-       * [如何推動無線寬頻網路建設，以因應行動數據海嘯 (Mobile Data Tsunami)時代來臨?](ru_he_tui_dong_wu_xian_kuan_pin_wang_lujian_she_ff0c_yi_yin_ying_xing_dong_shu_ju_hai_xiao__mobile_data_tsunami_shi_dai_lai_81e83f.md)
+       * [如何推動寬頻網路建設，以因應行動數據海嘯(Mobile Data Tsunami)時代來臨?](ru_he_tui_dong_wu_xian_kuan_pin_wang_lujian_she_ff0c_yi_yin_ying_xing_dong_shu_ju_hai_xiao__mobile_data_tsunami_shi_dai_lai_81e83f.md)
        * [書同文 車同軌─接軌國際標準，從「台灣資通產業標準」談起](shu_tong_wen_che_tong_gui_2500_jie_gui_guo_ji_biao_zhun_ff0c_cong_300c_tai_wan_zi_tong_chan_ye_biao_zhun_300d_tan_qi.md)
        * [如何培育軟硬虛實跨域整合的人才，開拓IoT商機？](ru_he_pei_yu_ruan_ying_xu_shi_kua_yu_zheng_he_de_ren_cai_ff0c_kai_tuo_iot_shang_ji_ff1f.md)
        * [如何培育未來的資通訊人才，回應產業需求變化？](ru_he_pei_yu_wei_lai_de_zi_tong_xun_ren_cai_ff0c_hui_ying_chan_ye_xu_qiu_bian_hua_ff1f.md)
