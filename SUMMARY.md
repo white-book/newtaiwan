@@ -37,6 +37,7 @@
 * [智慧生活](smart.md)
    * [智慧健康照護](smart/health.md)
    * [數位教育](smart/elearn.md)
+       * 您認為國內目前「數位教育」推動上，有那些項目需要再檢討改進? 有那些可以「加強」或「改進」的地方？
    * [網路媒體與文化娛樂](smart/entir.md)
    * [智慧體驗服務](smart/media.md)
 * [網路經濟](econo.md)
