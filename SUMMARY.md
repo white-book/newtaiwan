@@ -47,6 +47,7 @@
        * [證券期貨商網路服務](zheng_quan_qi_huo_shang_wang_lu_fu_wu.md)
        * [網路投保](wang_lu_tou_bao.md)
        * [e動郵局業務](edong_you_ju_ye_wu.md)
+       * 中小企業融資服務
 * [智慧國土](spatial.md)
    * [智慧防災](spatial/disas.md)
    * [智慧運輸](spatial/trans.md)
