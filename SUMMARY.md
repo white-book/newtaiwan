@@ -38,6 +38,7 @@
    * [智慧健康照護](smart/health.md)
    * [數位教育](smart/elearn.md)
        * [您認為國內目前「數位教育」推動上，有那些項目需要再檢討改進? 有那些可以「加強」或「改進」的地方？](nin_ren_wei_guo_nei_mu_qian_300c_shu_wei_jiao_yu_300d_tui_dong_shang_ff0c_you_na_xie_xiang_mu_xu_yao_zai_jian_tao_gai_90323f_you_na_xie_ke_yi_300c_jia_qiang_300d_huo_300c_gai_jin_300d_de_di_fang_ff1f.md)
+       * 面對數位化的全球趨勢，您認為政府在運用網路及數位科技，促進未來教育發展上，應有那些「創新作為」?
    * [網路媒體與文化娛樂](smart/entir.md)
    * [智慧體驗服務](smart/media.md)
 * [網路經濟](econo.md)
