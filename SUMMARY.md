@@ -49,6 +49,7 @@
        * [業者運用電子商務經營，需要什麼協助？](ye_zhe_yun_yong_dian_zi_shang_wu_jing_ying_ff0c_xu_yao_shi_me_xie_zhu_ff1f.md)
        * [未來電子商務應注意的科技或趨勢？](wei_lai_dian_zi_shang_wu_ying_zhu_yi_de_ke_ji_huo_qu_shi_ff1f.md)
        * [如何快速協助傳統產業導入電子商務？](ru_he_kuai_su_xie_zhu_chuan_tong_chan_ye_dao_ru_dian_zi_shang_wu_ff1f.md)
+       * 從電子商務業者的角度，那些海外市場具有經營的潛力？
    * [網路金融](econo/finan.md)
        * [金融環境3.0(Bank 3.0)政策](jin_rong_huan_jing_3__0__bank_3__0_zheng_ce.md)
        * [證券期貨商網路服務](zheng_quan_qi_huo_shang_wang_lu_fu_wu.md)
