@@ -36,7 +36,7 @@
        * [如何幫助新住民、身障朋友取得網路服務](ru_he_bang_zhu_xin_zhu_min_3001_shen_zhang_peng_you_qu_de_wang_lu_fu_wu.md)
 * [智慧生活](smart.md)
    * [智慧健康照護](smart/health.md)
-       * 健康存摺之加值創新應用
+       * [健康存摺之加值創新應用](jian_kang_cun_zhe_zhi_jia_zhi_chuang_xin_ying_yong.md)
    * [數位教育](smart/elearn.md)
        * [您認為國內目前「數位教育」推動上，有那些項目需要再檢討改進? 有那些可以「加強」或「改進」的地方？](nin_ren_wei_guo_nei_mu_qian_300c_shu_wei_jiao_yu_300d_tui_dong_shang_ff0c_you_na_xie_xiang_mu_xu_yao_zai_jian_tao_gai_90323f_you_na_xie_ke_yi_300c_jia_qiang_300d_huo_300c_gai_jin_300d_de_di_fang_ff1f.md)
        * [面對數位化的全球趨勢，您認為政府在運用網路及數位科技，促進未來教育發展上，應有那些「創新作為」?](mian_dui_shu_wei_hua_de_quan_qiu_qu_shi_ff0c_nin_ren_wei_zheng_fu_zai_yun_yong_wang_lu_ji_shu_wei_ke_ji_ff0c_cu_jin_wei_lai_jiao_yu_fa_zhan_shang_ff0c_ying_you_na_xie_300c_chuang_xin_zuo_wei_300d3f.md)
