@@ -48,7 +48,7 @@
        * [建置電子書及電子雜誌之有利發展環境。](jian_zhi_dian_zi_shu_ji_dian_zi_za_zhi_zhi_you_li_fa_zhan_huan_jing_3002.md)
    * [智慧體驗服務](smart/media.md)
        * [雖然網路世界快速演進，後進英雄前仆後繼](huan_ji_de_ceng_jing_zai_wu_ming_xiao_zhan_shang_de_dian_dian_di_di_55ce3f.md)
-       * [還有什麼設備加上連網功能後能讓生活更便利?](huan_you_shi_me_she_bei_jia_shang_lian_wang_gong_neng_hou_neng_rang_sheng_huo_geng_bian_52293f.md)
+       * [當各式設備加上連網功能後 功能創新上生活更加便利](huan_you_shi_me_she_bei_jia_shang_lian_wang_gong_neng_hou_neng_rang_sheng_huo_geng_bian_52293f.md)
        * [鋼鐵人的酷炫人機互動介面真的會實現?](gang_tie_ren_de_ku_xuan_ren_ji_hu_dong_jie_mian_zhen_de_hui_shi_73fe3f.md)
 * [網路經濟](econo.md)
    * [創新創業](econo/innov.md)
