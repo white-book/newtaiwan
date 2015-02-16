@@ -21,7 +21,7 @@
 * [透明治理](gover.md)
    * [公共政策參與](gover/strjoin.md)
        * [Join us!打造未來網路參與公共政策的藍圖!](zheng_fu_yu_min_zhong_zhi_jian_liang_hao_de_gou_tong_guan_dao_xu_yao_ju_bei_shi_me_yang_de_tiao_jian_ff1f.md)
-       * [呼叫婉君(鄉民)!請助一臂之力，公共政策網路參與需要你/妳!](nin_dui_gong_gong_zheng_ce_wang_lu_can_yu_de_yuan_jing_shi_shi_me_ff1f.md)
+       * [呼叫網友!請助一臂之力，公共政策網路參與需要你/妳!](nin_dui_gong_gong_zheng_ce_wang_lu_can_yu_de_yuan_jing_shi_shi_me_ff1f.md)
        * [「匿名制VS實名制」，你選哪一個？](wei_lai_10_nian_gong_gong_zheng_ce_wang_lu_can_yu_neng_zuo_dao_he_cheng_du_ff1f.md)
        * [「他山之石，可以攻錯」，請您分享其他國家推動民眾E參與(e-participation) 案例及經驗？](nin_zhi_dao_shi_jie_qi_ta_guo_jia_tui_dong_min_zhong_e_can_820728_e_-_participation_an_li_ji_jing_yan_fen_xiang_ma_ff1f.md)
        * [我國目前推動公共政策網路參與待改善的方向？](wo_guo_mu_qian_tui_dong_gong_gong_zheng_ce_wang_lu_can_yu_dai_gai_shan_de_fang_xiang_ff1f.md)
