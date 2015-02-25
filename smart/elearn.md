@@ -1,4 +1,7 @@
 # 數位教育
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/45114142" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 #壹、背景說明
 ##一、定義
 數位教育是以網路為基礎，配合先進的資訊技術及工具設備，實現從環境（如校園內網路及資訊設備等）、資源（如課本、講義等）、到活動(如教、學、管理、服務等）的適性數位化教學或學習，以突破時間和空間限制，從而改善傳統正規教育的方式，促進網路多元學習，提高教學與學習效率。
