@@ -1,4 +1,8 @@
 # 智慧健康照護
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/45114157" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+
 政府推動智慧醫療服務，引導醫療院所導入完整的資訊化系統，發展台灣智慧健康照護，衛生福利部陸續推動辦理下列計畫：
 #智慧醫院
 隨著人口逐漸老化，民眾對醫療品質要求越來越高，完整導入資訊化的醫療院所，將可使醫療資源從醫療院所進入居家環境，醫療體系也可向持續性照顧體系發展，進而發展出符合未來病患需求、新型態且優質之智慧醫療服務模式。
