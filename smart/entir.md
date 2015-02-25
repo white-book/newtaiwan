@@ -1,4 +1,7 @@
 # 網路媒體與文化娛樂
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/45114145" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 #壹、背景說明
 ##一、定義
 因應網路與智慧型手機等行動裝置的普及，影視音閱聽平台與載具趨多元化，強化影像與音樂結合之多元化影音產品，並透過網路環境，提供互動、即時之文化體驗。
