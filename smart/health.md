@@ -78,3 +78,7 @@
 ##四、規劃健康存摺
 在資訊安全及個人醫療隱私前提下，規劃診間服務可以查詢病患之健保藥歷資料，民眾亦可自行在網路上獲取自身的健保就醫資料，讓就醫資訊更透明化，並增進醫病關係，提供優化醫療照護品質，並促進醫師與病患的醫病關係，透過查詢雲端服務，快速掌握病情。
 健保資訊網查詢平台的規劃，透過醫師於診間使用雲端服務，快速掌握病患健保用藥情形，病患亦可自行查詢自身健保就醫明細，就醫資訊透明化有助於提升醫病關係並增進醫療品質。
+#參考資料
+##104年2月26日 智慧生活分組 第一場實體會議
+###智慧生活分組-智慧健康照護引言報告
+<iframe src="//www.slideshare.net/slideshow/embed_code/45114157" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/white-book/3-1-45114157" title="3.1衛福部-智慧健康照護" target="_blank">3.1衛福部-智慧健康照護</a> </strong> from <strong><a href="//www.slideshare.net/white-book" target="_blank">white-book</a></strong> </div>
