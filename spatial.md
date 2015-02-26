@@ -2,7 +2,7 @@
 
 「智慧國土」構面是從國土的生態價值為出發點，運用資通訊技術（ICT），以**高度感知化（Instrumented）**、**網路化（Interconnected）**及**智慧化（Intelligent）**，整合「智慧防災」、「智慧運輸」及「智慧城鄉」等策略架構，達到**經濟發展**、**社會正義**與**環境保護**兼顧的**永續發展**目標。
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?feature=player_embedded&v=hUjIY68WcAI" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hUjIY68WcAI?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
 
 #### 「智慧防災」
 
