@@ -71,7 +71,7 @@
 * [智慧國土](spatial.md)
    * [智慧防災](spatial/disas.md)
        * [在未來的物聯網新時代中，如何在防救災領域好好的利用這個新工具？](qiang_hua_fang_zai_jian_ce_wang_lu_yu_chong_shi_zi_liao_ku.md)
-       * [建立政府與民間的共享與協作機制](jian_li_zheng_fu_yu_min_jian_de_gong_xiang_yu_xie_zuo_ji_zhi.md)
+       * [防救災是眾人之事，政府和民間如何利用網路的特性增進防救災的能力？](jian_li_zheng_fu_yu_min_jian_de_gong_xiang_yu_xie_zuo_ji_zhi.md)
        * [迅速確實的傳遞防災資訊](xun_su_que_shi_de_chuan_di_fang_zai_zi_xun.md)
        * [災害巨量資料即時分析](zai_hai_ju_liang_zi_liao_ji_shi_fen_xi.md)
    * [智慧運輸](spatial/trans.md)
