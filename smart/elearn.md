@@ -47,3 +47,7 @@
 鼓勵大學校院強化數位學習創新能量經營(如，專業、平臺、人力、程序、管理、經營、服務等機制)，培養數位學習服務、線上課程製作、線上學習帶領等人才，奠定推展線上學習的基礎。並且鼓勵大學校院發展磨課師課程，導入產學資源，建立華文世界數位課程品牌，佈建優質全民教育環境。
 ##二、推動智慧校園跨域創新應用
 校園如同城市的縮影，以學習、社群、綠能、管理、行政、保健等六大智慧服務打造智慧大學城，推動校園智慧化創新應用，構築人才能量，累積創新人力資本，如：校園能源管理智慧化，降低用電成本；校園保健智慧化，強健學生體魄；團膳管理智慧化，食材來源透明飲食安心；安全與防災智慧化，確保師生人身安全。
+#參考資料
+##104年2月26日 智慧生活分組 第一場實體會議
+###智慧生活分組-數位教育引言報告
+<iframe src="//www.slideshare.net/slideshow/embed_code/45114142" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/white-book/3-2-0216-45114142" title="3.2智慧生活分組-數位教育引言報告(教育部資科司)-0216" target="_blank">3.2智慧生活分組-數位教育引言報告(教育部資科司)-0216</a> </strong> from <strong><a href="//www.slideshare.net/white-book" target="_blank">white-book</a></strong> </div>
