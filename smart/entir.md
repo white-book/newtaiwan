@@ -1,7 +1,5 @@
 # 網路媒體與文化娛樂
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/45114145" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
 #壹、背景說明
 ##一、定義
 因應網路與智慧型手機等行動裝置的普及，影視音閱聽平台與載具趨多元化，強化影像與音樂結合之多元化影音產品，並透過網路環境，提供互動、即時之文化體驗。
@@ -116,3 +114,7 @@
 2、補助出版業者創新營運及閱讀模式，從內容、產出及行銷等嘗試不同的創新作法，突破現有行銷方式，以創造產業新的商機。
 ##(三)促進產業交流，加速國際接軌
 1、補助業者、相關公協會參加國際性重要數位出版之展覽活動、國際研討會，以瞭解國際趨勢與新知。2、鼓勵業者採用國際標準電子書格式，並結合國內重要數位出版團體爭取正體中文在國際平台的閱讀器上廣泛流通。
+#參考資料
+##104年2月26日 智慧生活分組 第一場實體會議
+###智慧生活分組-網路媒體與文化娛樂引言簡報
+<iframe src="//www.slideshare.net/slideshow/embed_code/45114145" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
