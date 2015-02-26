@@ -1,7 +1,4 @@
 # 智慧體驗服務
-<iframe src="//www.slideshare.net/slideshow/embed_code/45114148" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/white-book/3-4-v6-45114148" title="3.4智慧生活分組-智慧體驗服務引言報告-v6" target="_blank">3.4智慧生活分組-智慧體驗服務引言報告-v6</a> </strong> from <strong><a href="//www.slideshare.net/white-book" target="_blank">white-book</a></strong> </div>
-
-
 #壹、背景說明
 ##一、定義
 智慧體驗服務係為透過智慧終端，增進消費者生活便利或使用體驗的相關服務。依據人（Human）或機器（Machine）為主體之互動模式區分，可約略歸納為人對人（H2H）、人對機器（H2M）、機器對人（M2H）及機器對機器（M2M）等，其中又分別以SoLoMo服務、友善人機介面、創新系統與載具、以及跨平台軟體技術為目前主要趨勢及市場重心。
@@ -69,3 +66,7 @@ SoLoMo服務是面向終端消費者的各產業發展的最後一哩，也是�
 經濟部針對下世代智慧體驗服務所需的創新系統與載具，主要透過以應用服務引導模式，如智慧健康、智慧商務、智慧物流等，推動業者投入開發符合創新應用服務所需的軟硬體系統與載具。同時以實證場域方式，讓業者進行創新系統與載具整合解決方案的試煉。
 ##四、跨平台軟體技術
 協助廠商發展以HTML5技術為基礎之虛實整合服務平台技術及智慧終端軟體，提供新創團隊育成階段需要資源。並針對未來創新之跨平台軟體技術，透過公部門軟體採購新制，兼顧市場需求與我國軟體產業發展。
+#參考資料
+##104年2月26日 智慧生活分組 第一場實體會議
+###智慧生活分組-智慧體驗服務引言報告
+<iframe src="//www.slideshare.net/slideshow/embed_code/45114148" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/white-book/3-4-v6-45114148" title="3.4智慧生活分組-智慧體驗服務引言報告-v6" target="_blank">3.4智慧生活分組-智慧體驗服務引言報告-v6</a> </strong> from <strong><a href="//www.slideshare.net/white-book" target="_blank">white-book</a></strong> </div>
