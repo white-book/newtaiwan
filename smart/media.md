@@ -1,7 +1,5 @@
 # 智慧體驗服務
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/45114148" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/45114148" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/white-book/3-4-v6-45114148" title="3.4智慧生活分組-智慧體驗服務引言報告-v6" target="_blank">3.4智慧生活分組-智慧體驗服務引言報告-v6</a> </strong> from <strong><a href="//www.slideshare.net/white-book" target="_blank">white-book</a></strong> </div>
 #壹、背景說明
 ##一、定義
 智慧體驗服務係為透過智慧終端，增進消費者生活便利或使用體驗的相關服務。依據人（Human）或機器（Machine）為主體之互動模式區分，可約略歸納為人對人（H2H）、人對機器（H2M）、機器對人（M2H）及機器對機器（M2M）等，其中又分別以SoLoMo服務、友善人機介面、創新系統與載具、以及跨平台軟體技術為目前主要趨勢及市場重心。
