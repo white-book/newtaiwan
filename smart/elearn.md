@@ -1,7 +1,4 @@
 # 數位教育
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/45114142" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
 #壹、背景說明
 ##一、定義
 數位教育是以網路為基礎，配合先進的資訊技術及工具設備，實現從環境（如校園內網路及資訊設備等）、資源（如課本、講義等）、到活動(如教、學、管理、服務等）的適性數位化教學或學習，以突破時間和空間限制，從而改善傳統正規教育的方式，促進網路多元學習，提高教學與學習效率。
@@ -50,4 +47,4 @@
 #參考資料
 ##104年2月26日 智慧生活分組 第一場實體會議
 ###智慧生活分組-數位教育引言報告
-<iframe src="//www.slideshare.net/slideshow/embed_code/45114142" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/white-book/3-2-0216-45114142" title="3.2智慧生活分組-數位教育引言報告(教育部資科司)-0216" target="_blank">3.2智慧生活分組-數位教育引言報告(教育部資科司)-0216</a> </strong> from <strong><a href="//www.slideshare.net/white-book" target="_blank">white-book</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/45114142" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
