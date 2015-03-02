@@ -20,12 +20,7 @@
 本次會議透過經濟部專屬youtube頻道 (https://www.youtube.com/user/isnisttyu) 進行即時轉播，供關心未來政策走向的各方賢達能隨時掌握會議內容。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bwYsVSoSJ9Q" frameborder="0" allowfullscreen></iframe>
-<br>
-
-
-
-
-<br>
+<br><br>
 會後，包括「智慧生活分組」在內的整份政策白皮書仍將透過網路平台
 (http://join.gov.tw)
 持續蒐集與彙總各方意見，其中「智慧生活分組」並將於3月16日再次舉辦實體會議，歡迎各方賢達持續踴躍建言。
