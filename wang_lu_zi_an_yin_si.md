@@ -1,5 +1,5 @@
 # 網路資安隱私
-<iframe src="//www.slideshare.net/slideshow/embed_code/45296826" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssusera05b0b/0301v3" title="0301網路智慧新台灣政策白皮書子題三v3" target="_blank">網路智慧新台灣政策白皮書-子題三網路資安隱私20150302</a> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/45506725" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssusera05b0b/ss-45506725" title="網路資安隱私背景資料" target="_blank">網路資安隱私背景資料</a> </strong></div>
 
 ###廿一世紀資訊科技運用的普及與網際網路的蓬勃發展，資通訊科技應用已成為個人日常生活的一部份，然而隨著國際法規對資安要求日趨嚴謹、資訊產品多元化以及雲端運算虛擬化，組織化網路犯罪、個人隱私資料被竊與金融詐騙、關鍵資訊基礎設施資安風險增加及零時差攻擊等資訊安全防護挑戰也相繼而來。
 ###因應資安環境威脅日益攀升，網路智慧新臺灣白皮書在基礎環境構面，提出網路資安隱私防護項目，並將以下列三個重點作為提升網路資安環境服務的導引：
@@ -8,7 +8,11 @@
 ###三、建構優質網路使用環境
 
 #參考資料
-## 104年3月3日 基礎環境分組 「網路資安隱私」實體會議新聞稿
+##104年3月3日 基礎環境分組 「網路資安隱私」實體會議
+##一、引言報告
+<iframe src="//www.slideshare.net/slideshow/embed_code/45296826" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssusera05b0b/0301v3" title="0301網路智慧新台灣政策白皮書子題三v3" target="_blank">網路智慧新台灣政策白皮書-子題三網路資安隱私20150302</a> </div>
+
+##二、新聞稿
 ##善用集體智慧，共商網路資安隱私
 ####廿一世紀資訊科技運用普及與網際網路蓬勃發展，已改變人類生活模式，伴隨而來的網路犯罪及個資保護等課題，也逐漸成為各國政府關注焦點。鑒於網際空間安全亟需共同認知、合作及協力，為善用集體智慧使「建構安全資安環境、邁向優質網路社會」願景早日實現，國家發展委員會與行政院資通安全辦公室邀集資安領域產官學研代表，針對當前重要資安課題進行研討。
 ####國家發展委員會本日下午召開「網路智慧新臺灣政策白皮書」基礎環境構面－「網路資安隱私」會議，由行政院資通安全辦公室説明網路資安威脅與隱私相關議題、國際組織與主要國家因應策略、國內現況與檢討後，就「推廣網路隱私保護，加強資安人才培育」、「發展資安自主技術，提升產業競爭力」及「強化公私協同合作，健全資安通報機制」等當前重要資安課題及施政作為，徵詢與會資安領域產官學研代表意見。
