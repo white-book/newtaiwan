@@ -1,4 +1,26 @@
 # 基礎環境
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:488px;"><div style="overflow:hidden;position:relative;height:0;padding:71.926230% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/150817930?et=VwCV95KhQQpp7a4or_6TZA&sig=b33hM3gy_2Ea0XkpLV2ZWfOvr_NjYw_I3W86EQr8OB0=" width="488" height="351" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p style="margin:0;"></p><div style="padding:0;margin:0 0 0 10px;text-align:left;"><a href="http://www.gettyimages.com/detail/150817930" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">View image</a> | <a href="http://www.gettyimages.com" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">gettyimages.com</a></div></div>
 
+#基礎環境，包含三個子題
+##子題一：虛擬世界法規
+###隨著科技發展、頻寬提升與行動載具、智慧聯網之廣泛應用，產業發展與民眾生活已由實體延伸至網路世界，產生新興產業類型及新型態法律關係。國內現行法制架構係以傳統製造業思考模式為基礎，與網路世界無國界、自律管理之特性將產生扞格，故有必要及早檢視相關法規適用面臨之問題並研擬因應對策。
+###因應此一發展趨勢，網路智慧新臺灣政策白皮書在基礎環境構面，提出虛擬世界法規調適項目，並以下列3大目標指引相關法規調適工作：
+###一、打造臺灣成為網路公司的樞紐
+###二、型塑臺灣數位生活型態的未來願景
+###三、促進電子商務環境的安全與安心
+
+##子題二：資通訊環境整備
+###為擴大政府服務與民眾生活之資通訊應用，以增進民眾生活品質、營造創意樂活經濟、邁向多元創新社會。政府將推動一系列資通訊基礎建設，包括：
+###一、提升無線、有線基礎網路，並研訂新版「數位匯流發展方案」，俾建構新興多元應用、內容服務之匯流友善環境。
+###二、發展未來智慧生活之資通技術資通產業共通標準，以串聯生態鏈與各式新興應用。
+###三、推動台灣成為全球物聯網創新聚落，提升台灣成為「全球智慧生活創造者 」之目標。
+###四、建立雲端化政府巨量資料共用平台與基礎設施，以促進多元創新應用服務蓬勃發展。
+###五、培育資通技術人才，強化國際競爭力。
+
+##子題三：網路資安隱私
+###廿一世紀資訊科技運用的普及與網際網路的蓬勃發展，資通訊科技應用已成為個人日常生活的一部份，然而隨著國際法規對資安要求日趨嚴謹、資訊產品多元化以及雲端運算虛擬化，組織化網路犯罪、個人隱私資料被竊與金融詐騙、關鍵資訊基礎設施資安風險增加及零時差攻擊等資訊安全防護挑戰也相繼而來。
+###因應資安環境威脅日益攀升，網路智慧新臺灣白皮書在基礎環境構面，提出網路資安隱私防護項目，並將以下列三個重點作為提升網路資安環境服務的導引：
+###一、厚植資安產業競爭力
+###二、精進網路資安隱私防護
+###三、建構優質網路使用環境
 
