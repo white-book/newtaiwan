@@ -13,7 +13,7 @@
 #### 「智慧城鄉」
 
 我國城鄉規劃將融入各項**資通訊技術(ICT)應用**，包含智慧型建築管理、智慧型社區安全、智慧型國土環境監測、智慧型土地資料流通應用及智慧型道路管線，提升都市管理效率及均衡城鄉發展，達到智慧城鄉的永續發展目標。
-<br><br><br>
+<br><br>
 #參考資料
 ##104年2月10日 智慧國土分組 第一階段第1次實體會議
 <iframe width="640" height="360" src="https://www.youtube.com/embed/hUjIY68WcAI?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
