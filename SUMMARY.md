@@ -35,7 +35,7 @@
        * [如何讓老人家活得開心、活得精采，你我都關心](ru_he_rang_lao_ren_jia_huo_de_kai_xin_3001_huo_de_jing_cai_ff0c_ni_wo_du_guan_xin.md)
        * [如何幫助新住民、身障朋友取得網路服務](ru_he_bang_zhu_xin_zhu_min_3001_shen_zhang_peng_you_qu_de_wang_lu_fu_wu.md)
 * [智慧生活](smart.md)
-   * [智慧健康照護](smart/health.md)
+   * [智慧健康照護行動計畫](smart/health.md)
        * [健康存摺之加值創新應用](jian_kang_cun_zhe_zhi_jia_zhi_chuang_xin_ying_yong.md)
        * [以資通訊科技提供銀髮族服務](yi_zi_tong_xun_ke_ji_ti_gong_yin_fa_zu_fu_wu.md)
        * [智慧醫院：醫院更聰明，民眾更健康](zhi_hui_yi_yuan_ff1a_yi_yuan_geng_cong_ming_ff0c_min_zhong_geng_jian_kang.md)
