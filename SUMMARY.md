@@ -43,7 +43,7 @@
        * [您認為國內目前「數位教育」推動上，有那些項目需要再檢討改進? 有那些可以「加強」或「改進」的地方？](nin_ren_wei_guo_nei_mu_qian_300c_shu_wei_jiao_yu_300d_tui_dong_shang_ff0c_you_na_xie_xiang_mu_xu_yao_zai_jian_tao_gai_90323f_you_na_xie_ke_yi_300c_jia_qiang_300d_huo_300c_gai_jin_300d_de_di_fang_ff1f.md)
        * [面對數位化的全球趨勢，您認為政府在運用網路及數位科技，促進未來教育發展上，應有那些「創新作為」?](mian_dui_shu_wei_hua_de_quan_qiu_qu_shi_ff0c_nin_ren_wei_zheng_fu_zai_yun_yong_wang_lu_ji_shu_wei_ke_ji_ff0c_cu_jin_wei_lai_jiao_yu_fa_zhan_shang_ff0c_ying_you_na_xie_300c_chuang_xin_zuo_wei_300d3f.md)
        * [您認為「數位教育」有那些重要議題，可以列為政府重要施政推動？針對「推動目標」及「推動策略」您有何建議?](nin_ren_wei_300c_shu_wei_jiao_yu_300d_you_na_xie_zhong_yao_yi_ti_ff0c_ke_yi_lie_wei_zheng_fu_zhong_yao_shi_zheng_tui_dong_ff1f_zhen_dui_300c_tui_dong_mu_biao_300d_ji_300c_tui_dong_ce_lve_300d_nin_you_he_jian_8b703f.md)
-   * [網路媒體與文化娛樂](smart/entir.md)
+   * [網路媒體與文化娛樂行動計畫](smart/entir.md)
        * [在數位多營時代，視聽管道漸趨多元化，視頻網站之崛起有無影響您至電影院看電影之意願及消費習慣?原因為何?](zai_shu_wei_duo_ying_shi_dai_ff0c_shi_ting_guan_dao_jian_qu_duo_yuan_hua_ff0c_shi_pin_wang_zhan_zhi_jue_qi_you_wu_ying_xiang_nin_zhi_dian_ying_yuan_kan_dian_ying_zhi_yi_yuan_ji_xiao_fei_xi_61633f_yuan_yin_wei_4f553f.md)
        * [建置電子書及電子雜誌之有利發展環境。](jian_zhi_dian_zi_shu_ji_dian_zi_za_zhi_zhi_you_li_fa_zhan_huan_jing_3002.md)
    * [智慧體驗服務](smart/media.md)
