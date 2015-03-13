@@ -2,7 +2,7 @@
 
 * [簡介](README.md)
 * [基礎環境](infra.md)
-   * [虛擬世界法規](infra/law1.md)
+   * [虛擬世界法規行動計畫](infra/law1.md)
        * [對「打造臺灣成為網路公司的樞紐」的主要法規調適項目有無新增建議?](dui_300c_da_zao_tai_wan_cheng_wei_wang_lu_gong_si_de_shu_niu_300d_de_zhu_yao_fa_gui_diao_shi_xiang_mu_you_wu_xin_zeng_jian_8b703f.md)
        * [對「型塑臺灣成為數位生活型態的未來願景」的主要法規調適項目有無新增建議?](dui_300c_xing_su_tai_wan_cheng_wei_shu_wei_sheng_huo_xing_tai_de_wei_lai_yuan_jing_300d_de_zhu_yao_fa_gui_diao_shi_xiang_mu_you_wu_xin_zeng_jian_8b703f.md)
        * [對「促進電子商務環境的安全與安心」的主要法規調適項目有無新增建議?](dui_300c_cu_jin_dian_zi_shang_wu_huan_jing_de_an_quan_yu_an_xin_300d_de_zhu_yao_fa_gui_diao_shi_xiang_mu_you_wu_xin_zeng_jian_8b703f.md)
