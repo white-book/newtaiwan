@@ -1,6 +1,4 @@
-<div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:507px;"><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/151864519?et=Kb9cpmE-TQZGANj8D4c5tg&sig=vwtugW9T6x1kgTkb2t40qtVW70aX5KSD9GEoUOK1L6U=" width="507" height="338" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p style="margin:0;"></p><div style="padding:0;margin:0 0 0 10px;text-align:left;"><a href="http://www.gettyimages.com/detail/151864519" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">View image</a> | <a href="http://www.gettyimages.com" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">gettyimages.com</a></div></div>
-
-#數位政府服務
+#數位政府服務行動計畫
 #壹、背景說明
 ####依據Gartner等國際智庫研究，電子化政府發展趨勢已逐步朝向開放政府(Open Government)以及智慧政府(Smart Government)發展，這個階段係為數位政府(Digital Government) 階段(如圖1)。
 ![](23-1.png)
