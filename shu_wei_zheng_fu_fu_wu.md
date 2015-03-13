@@ -1,5 +1,5 @@
 #數位政府服務行動計畫
-#壹、背景說明
+#壹、背景分析
 ####依據Gartner等國際智庫研究，電子化政府發展趨勢已逐步朝向開放政府(Open Government)以及智慧政府(Smart Government)發展，這個階段係為數位政府(Digital Government) 階段(如圖1)。
 ![](23-1.png)
 ####圖1：Gartner對政府科技應用四階段分析
