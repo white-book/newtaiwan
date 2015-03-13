@@ -14,7 +14,7 @@
        * [書同文 車同軌─接軌國際標準，從「台灣資通產業標準」談起](shu_tong_wen_che_tong_gui_2500_jie_gui_guo_ji_biao_zhun_ff0c_cong_300c_tai_wan_zi_tong_chan_ye_biao_zhun_300d_tan_qi.md)
        * [如何培育軟硬虛實跨域整合的人才，開拓IoT商機？](ru_he_pei_yu_ruan_ying_xu_shi_kua_yu_zheng_he_de_ren_cai_ff0c_kai_tuo_iot_shang_ji_ff1f.md)
        * [如何培育未來的資通訊人才，回應產業需求變化？](ru_he_pei_yu_wei_lai_de_zi_tong_xun_ren_cai_ff0c_hui_ying_chan_ye_xu_qiu_bian_hua_ff1f.md)
-   * [網路資安隱私](wang_lu_zi_an_yin_si.md)
+   * [網路資安隱私行動計畫](wang_lu_zi_an_yin_si.md)
        * [如何加強網路隱私保護，以因應大數據時代來臨?](ru_he_jia_qiang_wang_lu_yin_si_bao_hu_ff0c_yi_yin_ying_da_shu_ju_shi_dai_lai_81e83f.md)
        * [如何培育量足質精的資安人才，以確保國家安全及社會穩定?](ru_he_pei_yu_liang_zu_zhi_jing_de_zi_an_ren_cai_ff0c_yi_que_bao_guo_jia_an_quan_ji_she_hui_wen_5b9a3f.md)
        * [如何提升資安自主技術研發能量，厚植資安產業競爭力?](ru_he_ti_sheng_zi_an_zi_zhu_ji_shu_yan_fa_neng_liang_ff0c_hou_zhi_zi_an_chan_ye_jing_zheng_529b3f.md)
