@@ -53,7 +53,7 @@
        * [未來新興人機介面的發展趨勢為何?政府可以投注那些資源(技術研發、應用服務、基礎環境等)以加速發展新興人機介面?](gang_tie_ren_de_ku_xuan_ren_ji_hu_dong_jie_mian_zhen_de_hui_shi_73fe3f.md)
        * [對於創新服務, 政府可透過那些資源與計劃協助廠商來進行埸域的驗證 ?](dui_yu_chuang_xin_fu_52d92c_zheng_fu_ke_tou_guo_na_xie_zi_yuan_yu_ji_hua_xie_zhu_chang_shang_lai_jin_xing_yi_yu_de_yan_zheng.md)
 * [網路經濟](econo.md)
-   * [創新創業](econo/innov.md)
+   * [創新創業行動計畫](econo/innov.md)
        * [一站式政府創業資源網站](yi_zhan_shi_zheng_fu_chuang_ye_zi_yuan_wang_zhan.md)
        * [創業服務基地](chuang_ye_fu_wu_ji_di.md)
        * [創業課程論壇](chuang_ye_ke_cheng_lun_tan.md)
