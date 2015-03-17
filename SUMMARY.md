@@ -46,7 +46,7 @@
    * [網路媒體與文化娛樂行動計畫](smart/entir.md)
        * [在數位多營時代，視聽管道漸趨多元化，視頻網站之崛起有無影響您至電影院看電影之意願及消費習慣?原因為何?](zai_shu_wei_duo_ying_shi_dai_ff0c_shi_ting_guan_dao_jian_qu_duo_yuan_hua_ff0c_shi_pin_wang_zhan_zhi_jue_qi_you_wu_ying_xiang_nin_zhi_dian_ying_yuan_kan_dian_ying_zhi_yi_yuan_ji_xiao_fei_xi_61633f_yuan_yin_wei_4f553f.md)
        * [建置電子書及電子雜誌之有利發展環境。](jian_zhi_dian_zi_shu_ji_dian_zi_za_zhi_zhi_you_li_fa_zhan_huan_jing_3002.md)
-* [建置電子書及電子雜誌之有利發展環境。](ru_he_yun_yong_xing_dong_ke_ji_yu_bo_wu_guan_fu_wu_ff1f.md)
+       * [如何運用行動科技於博物館服務？](ru_he_yun_yong_xing_dong_ke_ji_yu_bo_wu_guan_fu_wu_ff1f.md)
    * [智慧體驗服務行動計畫](smart/media.md)
        * [在SoLoMo趨勢下，政府該如何刺激新興應用服務產生？](huan_ji_de_ceng_jing_zai_wu_ming_xiao_zhan_shang_de_dian_dian_di_di_55ce3f.md)
        * [創新系統與載具可以如何有效結合商業模式獲得更好的發展，政府可以如何推動創新系統與載具的發展?](huan_you_shi_me_she_bei_jia_shang_lian_wang_gong_neng_hou_neng_rang_sheng_huo_geng_bian_52293f.md)
