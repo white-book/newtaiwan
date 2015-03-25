@@ -1,3 +1,4 @@
+<iframe src="//www.slideshare.net/slideshow/embed_code/46246470" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rrc5954/ss-46246470" title="基礎環境 資通訊環境整備" target="_blank">基礎環境 資通訊環境整備</a> </strong> from <strong><a href="//www.slideshare.net/rrc5954" target="_blank">rrc5954</a></strong> </div>
 # 資通訊環境整備行動計畫
 ###第一章　背景分析
 資通訊發展已成為各國經濟成長、社會創新的主要動能，尤其在網路國度快速擴張的新時代裡，各國也紛紛將資通訊暨網路建設列為推動重點領域。這些發展的議題包括：高速寬頻基礎建設、創造產業新附加價值、縮減數位落差、智慧城巿、智慧生活等。
