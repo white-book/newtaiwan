@@ -1,3 +1,4 @@
+<iframe src="//www.slideshare.net/slideshow/embed_code/46246620" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rrc5954/ss-46246620" title="基礎環境 網路資安隱私" target="_blank">基礎環境 網路資安隱私</a> </strong> from <strong><a href="//www.slideshare.net/rrc5954" target="_blank">rrc5954</a></strong> </div>
 # 網路資安隱私行動計畫
 
 ####第一章　背景分析
