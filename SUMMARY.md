@@ -77,7 +77,7 @@
        * [防救災是眾人之事，政府和民間如何利用網路的特性增進防救災的能力？](jian_li_zheng_fu_yu_min_jian_de_gong_xiang_yu_xie_zuo_ji_zhi.md)
        * [救災如同作戰，要如何才能達到災時訊息的掌握與發佈的迅速和確實？](xun_su_que_shi_de_chuan_di_fang_zai_zi_xun.md)
        * [災害巨量資料即時分析](zai_hai_ju_liang_zi_liao_ji_shi_fen_xi.md)
-   * [智慧運輸](spatial/trans.md)
+   * [智慧運輸行動計畫](spatial/trans.md)
        * [國省道即時交通資訊](guo_sheng_dao_ji_shi_jiao_tong_zi_xun.md)
        * [跨領域的即時交通資訊整合服務](tie_lu_yun_shu_ding_piao_xi_tong_ji_ji_shi_ying_yun_zi_xun_yu_shi_jian_tong_bao.md)
        * [旅遊資訊及觀光遊憩區塞車路況](lv_you_zi_xun_ji_guan_guang_you_qi_qu_sai_che_lu_kuang.md)
