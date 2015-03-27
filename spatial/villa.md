@@ -1,8 +1,8 @@
-# 智慧城鄉
-<iframe src="//www.slideshare.net/slideshow/embed_code/44480044" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuser3f74ef/3-10402101-3" title="智慧國土篇引言報告簡報(智慧城鄉1040210)" target="_blank">智慧國土篇引言報告簡報(智慧城鄉1040210)</a> </strong> </div>
+# 智慧城鄉行動計畫
+#第一章　背景分析
+臺灣地區人口平均密度高，且人口過度集中於都會區，為提升都市治理效率，並有效縮小城鄉差距達到均衡永續發展，智慧城鄉必須運用新科技來轉換及管理系統，以最佳方式善用有限的資源，必須提高基礎設施的使用壽命，讓下一代系統變得更有效率、有彈性、有適應力。
+因應未來網路智慧發展，將融入各項ICT 技術應用，包含雲端應用服務、政府開放資料(Open Data) 模式等，提升都市管理效率、均衡城鄉發展、降低能耗及碳排放，朝向結合低碳生活、增進民眾身心健康促進城鄉永續，經研擬出智慧城鄉五大面向：智慧型建築管理、智慧型社區安全、智慧型國土環境監測、智慧型土地資料流通應用及智慧型道路管線，使城鄉更有智慧且更具效率。
 
-#壹、背景說明
-因應未來網路智慧發展，將融入各項ICT 技術應用，包含雲端應用服務、政府開放資料(Open Data) 模式等，提升都市管理效率、均衡城鄉發展、降低能耗及碳排放，朝向結合低碳生活、促進民眾身心健康，促進城鄉永續發展。
 #貳、智慧城鄉五大面向
 ##一、智慧型建築管理
 ##二、智慧型社區安全
